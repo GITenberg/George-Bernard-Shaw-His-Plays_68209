@@ -1,0 +1,34 @@
+_repo: George-Bernard-Shaw-His-Plays_68209
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mencken, H. L. (Henry Louis)
+    aliases:
+    - Mencken, Henry L.
+    - Mencken, Henry Louis
+    - Hatteras, Owen
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '578'
+    url: http://www.gutenberg.org/2009/agents/578
+    wikipedia: https://en.wikipedia.org/wiki/H._L._Mencken
+description: ''
+gutenberg_issued: '2022-05-31'
+identifiers:
+  gutenberg: '68209'
+language: en
+pgterms:marc904: https://archive.org/details/georgebernardsh00mencgoog
+pgterms:marc905: 20210428142237mencken
+pgterms:marc906: '1905'
+pgterms:marc907: us
+production_note: Emmanuel Ackerman, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :John W. Luce & Co.,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'George Bernard Shaw: His Plays'
+url: http://www.gutenberg.org/ebooks/68209
